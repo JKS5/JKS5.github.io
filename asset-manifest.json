@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21bc32e8.css",
+    "main.js": "/static/js/main.ac99cbb9.js",
+    "static/media/LT_Chatting.gif": "/static/media/LT_Chatting.2d0b13863bee93dabd12.gif",
+    "static/media/CC_Modify.gif": "/static/media/CC_Modify.e0af09b3eb4674396911.gif",
+    "static/media/SignUp.gif": "/static/media/SignUp.4b05408da020fdc502dc.gif",
+    "static/media/AWS.png": "/static/media/AWS.36085b2cebd7110d82e0.png",
+    "static/media/displaypic.png": "/static/media/displaypic.3ca2550b9e2e9933aef1.png",
+    "static/media/node.png": "/static/media/node.abfaef34ea49d0c7cd3c.png",
+    "static/media/apache.png": "/static/media/apache.5a2b7bea79b5e04c23c7.png",
+    "static/media/redux.png": "/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/github.png": "/static/media/github.7c8f7736007664c4b0ba.png",
+    "static/media/git.png": "/static/media/git.ce8935a5255b60848035.png",
+    "static/media/mySql.svg": "/static/media/mySql.43de11b606ebbf08dc0ff0a2c482c686.svg",
+    "index.html": "/index.html",
+    "main.21bc32e8.css.map": "/static/css/main.21bc32e8.css.map",
+    "main.ac99cbb9.js.map": "/static/js/main.ac99cbb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21bc32e8.css",
+    "static/js/main.ac99cbb9.js"
+  ]
+}
